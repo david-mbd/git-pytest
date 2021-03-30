@@ -12,3 +12,8 @@ This repo is very tame and does not hide any secret whatsoever.
 # Libraries needed
 
 - pytest
+
+
+# usuario 
+
+mi usuario es dlopez
